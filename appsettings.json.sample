@@ -1,0 +1,8 @@
+{
+    "tenantId": "<<replace with value>>",
+    "clientId": "<<replace with value>>",
+    "connectionId": "<<replace with value>>",
+    "connectionName": "<<replace with value>>",
+    "connectionDescription": "<<replace with value>>",
+    "certificateName": "<<replace with value>>"
+}
